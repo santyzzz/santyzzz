@@ -33,23 +33,14 @@ I am a second-year DAM student (Multiplatform Application Development) who is pa
 
 ---
 
-# GitHub Statistics
-<table align="center">
-<tr border="none">
+### ⚙️ &nbsp;GitHub Analytics
 
-<td width="50%"  align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=santyzzz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-  <td  width="50%" align="center">
-      <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=santyzzz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  </td>
-  
-
-</tr>
-</table>
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santyzzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santyzzz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p align="center">
     <img width="70%"
