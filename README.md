@@ -63,7 +63,7 @@ I am a second-year DAM student (Multiplatform Application Development) who is pa
  <p align="center">
   
 <a href="https://www.linkedin.com/in/santiago-s%C3%A1nchez-mart%C3%ADn-21182a352/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:santiagosanchezmartin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:santiagosanchezmartin@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   /></a>
   </p>
     
 
