@@ -44,12 +44,15 @@
 <table align="center">
 <tr border="none">
 
-<td width="50%" align="center">
+<td width="50%"  align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=santyzzz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
-    <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=santyzzz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  <td  width="50%" align="center">
+      <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=santyzzz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  </td>
+  
 
 </tr>
 </table>
