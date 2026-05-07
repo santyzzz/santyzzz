@@ -42,26 +42,7 @@ I am a second-year DAM student (Multiplatform Application Development) who is pa
 </a>
 </p>
 
-<p align="center">
-    <img width="70%"
-        src="https://streak-stats.demolab.com?user=santyzzz&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
 
 ---
 
-# Activity Graph
-
-<p align="center">
-    <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=santyzzz&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-# Connect With Me
-
-<p align="center">
-    <a href="https://github.com/santyzzz">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-</p>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
