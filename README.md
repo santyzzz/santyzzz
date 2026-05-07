@@ -46,3 +46,5 @@ I am a second-year DAM student (Multiplatform Application Development) who is pa
 ---
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/santiago-s%C3%A1nchez-mart%C3%ADn-21182a352/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+
